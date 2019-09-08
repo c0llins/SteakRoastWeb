@@ -1,3 +1,40 @@
+/* Addons */
+.plan-price {
+  background-color: #fff;
+  color: #4a4a4a;
+  font-size: 0.75rem;
+  font-weight: 400;
+  padding: 0.75em;
+  align-content: center;
+  text-align: center;
+}
+.plan-price .plan-price-amount {
+  color: #ff7057;
+}
+.plan-price .plan-price-amount .plan-price-currency {
+  vertical-align: super;
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  color: #4a4a4a;
+  margin-right: 0.25rem;
+}
+.plan-price .plan-price-amount {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.pricing-table
+  .pricing-plan
+  .plan-price
+  .plan-price-amount
+  .plan-price-currency {
+  vertical-align: super;
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  color: #4a4a4a;
+  margin-right: 0.25rem;
+}
+
+
 /*! bulma.io v0.7.5 | MIT License | github.com/jgthms/bulma */
 @-webkit-keyframes spinAround {
   from {
