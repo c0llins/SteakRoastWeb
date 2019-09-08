@@ -5,7 +5,7 @@ function Navbar() {
     <nav
       class="navbar is-fixed-top"
       role="navigation"
-      style="flex-grow: 1; justify-content: center;"
+      style={{ flexGrow: 1, justifyContent: "center" }}
       aria-label="main navigation"
     >
       <div class="navbar-brand">
