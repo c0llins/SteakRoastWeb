@@ -33,34 +33,6 @@ export default function Index() {
               <Card></Card>
             </div>
           </div>
-          <div class="columns">
-            <div class="column">
-              <Card></Card>
-            </div>
-            <div class="column">
-              <Card></Card>
-            </div>
-            <div class="column">
-              <Card></Card>
-            </div>
-            <div class="column">
-              <Card></Card>
-            </div>
-          </div>
-          <div class="columns">
-            <div class="column">
-              <Card></Card>
-            </div>
-            <div class="column">
-              <Card></Card>
-            </div>
-            <div class="column">
-              <Card></Card>
-            </div>
-            <div class="column">
-              <Card></Card>
-            </div>
-          </div>
         </div>
       </section>
     </div>
