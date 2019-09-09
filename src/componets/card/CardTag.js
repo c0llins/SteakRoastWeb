@@ -2,9 +2,9 @@ import React from "react";
 
 function CardTag(props) {
   return (
-    <span class="tag">
+    <span className="tag">
       {props.name}
-      <button class="delete is-small"></button>
+      {/* <button className="delete is-small"></button> */}
     </span>
   );
 }

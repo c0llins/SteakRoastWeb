@@ -2,9 +2,9 @@ import React from "react";
 
 function CardPrice(props) {
   return (
-    <div class="plan-price">
+    <div className="plan-price">
       <span class="plan-price-amount">
-        <span class="plan-price-currency">R$</span>
+        <span className="plan-price-currency">R$</span>
         {props.price}
       </span>
     </div>

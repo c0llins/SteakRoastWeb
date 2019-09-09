@@ -3,13 +3,13 @@ import React from "react";
 function Navbar() {
   return (
     <nav
-      class="navbar is-fixed-top"
+      className="navbar is-fixed-top"
       role="navigation"
       style={{ flexGrow: 1, justifyContent: "center" }}
       aria-label="main navigation"
     >
-      <div class="navbar-brand">
-        <a class="navbar-item" href="https://bulma.io">
+      <div className="navbar-brand">
+        <a className="navbar-item" href="https://bulma.io">
           <img
             src="https://bulma.io/images/bulma-logo.png"
             alt="Bulma: Free, open source, & modern CSS framework based on Flexbox"
@@ -20,7 +20,7 @@ function Navbar() {
 
         <a
           role="button"
-          class="navbar-burger"
+          className="navbar-burger"
           aria-label="menu"
           aria-expanded="false"
         >
